@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DEMO</string>
+    <string name="error_field_required">Please input correct data</string>
+</resources>
